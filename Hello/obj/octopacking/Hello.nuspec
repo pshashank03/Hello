@@ -1,9 +1,9 @@
 <package>
   <metadata>
-    <id>Hello</id>
-    <version>1.0.0.3</version>
-    <authors>Administrator</authors>
-    <owners>Administrator</owners>
+    <id>Hello.NuGet.Hello</id>
+    <version>1.0.46</version>
+    <authors>SYSTEM</authors>
+    <owners>SYSTEM</owners>
     <tags>OctopusDeploy</tags>
     <licenseUrl>http://example.com</licenseUrl>
     <projectUrl>http://example.com</projectUrl>
