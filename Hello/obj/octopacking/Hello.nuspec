@@ -8,7 +8,7 @@
     <licenseUrl>http://example.com</licenseUrl>
     <projectUrl>http://example.com</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>The Hello deployment package, built on 9/14/2018</description>
+    <description>The Hello deployment package, built on 9/19/2018</description>
     <releaseNotes></releaseNotes>
   </metadata>
   <files>
